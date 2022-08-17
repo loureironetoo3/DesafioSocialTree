@@ -1,0 +1,47 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #FAF7FD;
+    color: #BB99DD;
+}
+
+:root {
+    --body-bg-color: #FAF7FD;
+    --purple: #BB99DD;
+  }
+ .areaprincipal {
+    width: 50%;
+	margin: 55px auto 10px auto;
+    padding: 10px;
+}
+.posicaomeio{
+    display: flex;
+    justify-content: center;
+}
+.imgCentral{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 2px solid #BB99DD;
+    padding: 5px;
+}
+
+p{
+    font-size: 16px;
+}
+
+input{
+    width: 200px;
+    margin-top: 15px;
+    background: none;
+    border: 1px solid #BB99DD;
+    color: #BB99DD;
+    padding: 5px;
+}
+
+a:visited{
+    color:#BB99DD;
+}
+
+.ico{
+    margin: 10px;
+}
