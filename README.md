@@ -13,4 +13,9 @@ Design Figma: https://www.figma.com/file/yi1ycIyAW8QiGiX9bMFHkU/DD-%2F-Social-li
 <br><br>
 
 Prévia Projeto:<br>
-![0101](https://user-images.githubusercontent.com/95112994/189941278-0a7b2eb7-3ecd-48c7-ab52-89b97a315ac2.png)
+![0011](https://user-images.githubusercontent.com/95112994/190045029-85e2b5f1-eee6-4ed1-86c1-2cd625289c59.png)
+<br><br>
+
+Prévia Mobile (responsividade)<br>
+![0012](https://user-images.githubusercontent.com/95112994/190045063-aa495eec-3680-4b5e-a390-bae3524deb23.png)
+
